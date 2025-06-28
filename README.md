@@ -56,12 +56,6 @@ Aqui você encontrará repositórios com foco em **Node.js, Express, Sequelize, 
 
 ---
 
-## 🐍 Snake Game de Contribuições
-
-![Snake animation](https://github.com/Joel-Santos/Joel-Santos/blob/output/github-contribution-grid-snake.svg)
-
----
-
 > ✍️ “Ensinar é aprender duas vezes.” – Joseph Joubert
 
 ⭐ Se gostou de algum projeto, fique à vontade para **dar uma estrela** ou **forkar**!
