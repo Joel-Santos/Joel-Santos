@@ -51,7 +51,7 @@ Aqui você encontrará repositórios com foco em **Node.js, Express, Sequelize, 
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joel-santos)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joel-santos-722038a1)
 - 💌 joeloliveira56@gmail.com 
 
 ---
